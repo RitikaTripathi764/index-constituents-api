@@ -1,7 +1,5 @@
 ## Index Constituents API
 
-This project is my solution for the BITA Python + PostgreSQL technical assessment.
-
 The service accepts index constituent data from a CSV file, stores every ingestion in PostgreSQL without overwriting previous data, supports logical deletion, and exports the current constituent data for a selected date range.
 
 The main focus of my implementation was keeping the ingestion history intact while still providing a clear definition of what should be considered the current version of a constituent.
