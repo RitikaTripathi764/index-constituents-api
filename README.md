@@ -1,4 +1,4 @@
-# BITA Index Constituents API
+#Index Constituents API
 
 This project is my solution for the BITA Python + PostgreSQL technical assessment.
 
